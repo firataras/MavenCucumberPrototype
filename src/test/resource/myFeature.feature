@@ -1,6 +1,6 @@
-Feature: This is my dummy feature file
+Feature: Login Feature
 
-  Scenario: This is my first dummy scenario
-    Given This is my first dummy given step
+  Scenario: Login with correct username and password
+    Given username and password was logged in 
     When This is my second when step
     Then This is my third then step
